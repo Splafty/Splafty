@@ -32,10 +32,10 @@
 
 ### ✨ About Me
 
-- ⚡ I am an IT student at UEK, a math tutor, and a Rector's Scholarship holder
-- 🔭 I’m currently working on personal frontend and backend projects
-- 🌱 Learning more about web design & API architecture
-- 🧠 Currently exploring Figma and UI/UX
+- ⚡ **Applied Informatics** student at UEK, a math tutor, and a Rector's Scholarship holder
+- 🔭 Working on personal frontend and backend projects
+- 🌱 Learning more about **web developement** & **API architecture**
+- 🧠 Currently exploring **Figma** and **UI/UX**
 - 💬 Studying for exams and finishing projects...
 
 #
